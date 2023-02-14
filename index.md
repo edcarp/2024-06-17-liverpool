@@ -4,11 +4,11 @@ layout: workshop      # DON'T CHANGE THIS.
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
 venue: "University of Edinburgh"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
-address: "School of Geosciences, High School Yards, Infirmary Street, Edinburgh EH1 1LZ"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
+address: "The Pod, Edinburgh Climate Change Institute, High School Yards, Infirmary Street, Edinburgh EH1 1LZ"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
 country: "uk"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the workshop
-latitude: "55.948627"        # decimal latitude of workshop venue (use https://www.latlong.net/)
-longitude: "-3.183491"       # decimal longitude of the workshop venue (use https://www.latlong.net)
+latitude: "55.9486"        # decimal latitude of workshop venue (use https://www.latlong.net/)
+longitude: "-3.1842"       # decimal longitude of the workshop venue (use https://www.latlong.net)
 humandate: "Feb 21-22, 2023"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "09:30 - 17:00 GMT"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
 startdate: 2023-02-21      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
